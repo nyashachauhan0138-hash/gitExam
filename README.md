@@ -1,1 +1,1 @@
-# gitExam
+Initial commit for Git lab exam
